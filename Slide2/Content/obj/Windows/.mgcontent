@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/MonoGame Project/Slide2/Slide2/Content/assets/img/plan_1.png</File>
+    <File>D:/MonoGame Project/Slide2/Slide2/Content/assets/img/plan_2.png</File>
+    <File>D:/MonoGame Project/Slide2/Slide2/Content/assets/img/plan_3.png</File>
+    <File>D:/MonoGame Project/Slide2/Slide2/Content/assets/img/indian.png</File>
+  </SourceFiles>
+</SourceFileCollection>
